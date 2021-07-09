@@ -51,20 +51,20 @@ Once staked refresh the page and your DEV will show on the 'Your Staking Amount'
 
 ### Restaking
 
-A common practice on the Dev Protocol community is to withdrawal you rewards from time to time to stake them again, either on the same project or new projects. This way your yield will be manually compounded. Keep in mind that, with current high gas costs, Restaking might only be a financially wise idea, once you have accumulated a significant amount of rewards.
+A common practice on the Dev Protocol community is to withdraw you rewards from time to time to stake them again, either on the same project or new projects. This way your yield will be manually compounded. Keep in mind that, with current high gas costs, Restaking might only be a financially wise idea once you have accumulated a significant amount of rewards.
 
-To withdrawal just the rewards you just type 0 on the grey box, click on the Withdrawal grey button and a confirmation will pop up in your wallet, you check the gas costs and hit confirm. All of your DEV that you originally staked will still be staked and you will only withdrawal your Rewards.
+To withdraw just the rewards you just type 0 on the grey box, click on the Withdraw grey button and a confirmation will pop up on your wallet, you check the gas costs and hit confirm. All of your DEV that you originally staked will still be staked and you will only withdrawal your Rewards.
 
 ![how to stake on stakes.social](/content/images/stakes.social/stakes.social-6.png)
 
 ### Withdrawal
 
-To withdrawal your DEV you do the same steps as above but you type the number of DEV you want on the grey box. Keep in mind that every time you withdrawal all your rewards are as well, so keep that in mind if you just need an specific amount of DEV. For example, you have accrued 30 DEV in Rewards, but you want to Withdrawal 100 DEV, you type 70 DEV on the box, once you have approved the transaction it'll show up 70 DEV+30 DEV(Reward) in your wallet.
+To withdraw your DEV you do the same steps as above but you type the number of DEV you want on the grey box. Keep in mind that every time you withdraw, all your rewards are automatically added to the number typed as well, so keep that in mind if you just need an specific amount of DEV. For example, you have accrued 30 DEV in Rewards, but you want to Withdraw 100 DEV, you type 70 DEV on the box, once you have approved the transaction it'll show up 70 DEV+30 DEV(Reward) in your wallet.
 
-To Withdrawal everything, just click on the DEV button in the grey box and the total amount of DEV you have deposited will show up, click on the Withdrawal button, approve the transaction and everything will show up in your wallet.
+To Withdraw everything, just click on the DEV button in the grey box and the total amount of DEV you have deposited will show up, click on the Withdraw button, approve the transaction and everything will show up in your wallet.
 
 ### Comments and other questions
 
-Keep in mind that the gas costs are defined the by the usage of the Ethereum network, it's not dependent on Dev Protocol. It is also variable, if it is too expensive to approve a transaction, it could get cheaper later, and vice-versa, if you're confused, just ask other community members.
+Keep in mind that the gas costs depend on the usage of the Ethereum network, it's not dependent on Dev Protocol. It is also variable, if it is too expensive to approve a transaction, it could get cheaper later, and vice-versa, if you're confused, just ask other community members.
 
 If you have any other questions you can just ask them on [Discord](https://discord.com/channels/547215761341546497/675499290940014604) or [Telegram](https://web.telegram.org/#/im?p=@devprtcl), there are community and team members always active and ready to help you.
